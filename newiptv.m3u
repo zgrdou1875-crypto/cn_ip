@@ -1,0 +1,64 @@
+#EXTM3U  x-tvg-url="http://epg.51zmt.top:8000/e.xml"
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1
+http://blog.belidong.top:4023/udp/239.81.0.102:4056
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV2
+http://blog.belidong.top:4023/udp/239.81.0.115:4056
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV3
+http://blog.belidong.top:4023/udp/239.81.0.231:4056
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV4
+http://blog.belidong.top:4023/udp/239.81.0.96:4056
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV5
+http://blog.belidong.top:4023/udp/239.81.0.232:4056
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV5+
+http://blog.belidong.top:4023/udp/239.81.0.101:4056
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV6
+http://blog.belidong.top:4023/udp/239.81.0.233:4056
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV7
+http://blog.belidong.top:4023/udp/239.81.0.116:4056
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV8
+http://blog.belidong.top:4023/udp/239.81.0.234:4056
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV9
+http://blog.belidong.top:4023/udp/239.81.0.117:4056
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV10
+http://blog.belidong.top:4023/udp/239.81.0.118:4056
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",CCTV11
+http://blog.belidong.top:4023/udp/239.81.0.229:4056
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV12
+http://blog.belidong.top:4023/udp/239.81.0.119:4056
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV13
+http://blog.belidong.top:4023/udp/239.81.0.206:4056
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV14
+http://blog.belidong.top:4023/udp/239.81.0.120:4056
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV15
+http://blog.belidong.top:4023/udp/239.81.0.230:4056
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV17
+http://blog.belidong.top:4023/udp/239.81.0.228:4056
+#EXTINF:-1 tvg-id="2" tvg-name="香港卫视" tvg-logo="http://192.168.1.3:8080/logo/香港卫视.png" group-title="📡卫视频道",香港卫视
+http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 tvg-id="凤凰卫视" tvg-name="凤凰卫视" tvg-logo="http://192.168.1.3:8080/logo/凤凰卫视.png" group-title="📡卫视频道",凤凰>
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="http://192.168.1.3:8080/logo/凤凰中文.png" group-title="📡卫视频道",凤凰>
+http://cdn6.163189.xyz/163189/fhzw
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="http://192.168.1.3:8080/logo/凤凰中文.png" group-title="📡卫视频道",凤凰>
+http://r.jdshipin.com/cCCzW
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="http://192.168.1.3:8080/logo/凤凰资讯.png" group-title="📡卫视频道",凤凰>
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
+#EXTINF:-1 tvg-id="5" tvg-name="凤凰资讯" tvg-logo="http://192.168.1.3:8080/logo/凤凰资讯.png" group-title="📡卫视频道",凤凰资讯
+http://r.jdshipin.com/0Rp07
+#EXTINF:-1 tvg-id="5" tvg-name="凤凰资讯" tvg-logo="http://192.168.1.3:8080/logo/凤凰资讯.png" group-title="📡卫视频道",凤凰资讯
+https://stream1.freetv.fun/feng-huang-zi-xun-2.ctv
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="http://192.168.1.3:8080/logo/凤凰香港.png" group-title="📡卫视频道",凤凰>
+http://cdn6.163189.xyz/163189/fhhk
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="http://192.168.1.3:8080/logo/凤凰香港.png" group-title="📡卫视频道",凤凰>
+http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+#EXTINF:-1 tvg-id="6" tvg-name="凤凰香港" tvg-logo="http://192.168.1.3:8080/logo/凤凰香港.png" group-title="📡卫视频道",凤凰香港
+http://r.jdshipin.com/yDoTN
+#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="http://192.168.1.3:8080/logo/广东珠江.png" group-title="☘️广东频道",广东[>
+http://r.jdshipin.com/sE5vO
+#EXTINF:-1 tvg-id="8" tvg-name="广州综合" tvg-logo="http://192.168.1.3:8080/logo/广州综合.png" group-title="☘️广东频道",广州综合
+http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
+#EXTINF:-1 tvg-id="8" tvg-name="广州综合" tvg-logo="http://192.168.1.3:8080/logo/广州综合.png" group-title="☘️广东频道",广州综合
+http://r.jdshipin.com/iR6Gq
+#EXTINF:-1 tvg-id="8" tvg-name="广州综合" tvg-logo="http://192.168.1.3:8080/logo/广州综合.png" group-title="☘️广东频道",广州综合
+http://r.jdshipin.com/snhya
+
