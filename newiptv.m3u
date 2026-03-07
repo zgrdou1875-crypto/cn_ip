@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/zgrdou1875-crypto/cn_ip/main/e.xml.gz"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/zgrdou1875-crypto/cn_ip/main/epg.gz"
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/zgrdou1875-crypto/cn_ip/main/iptv/CCTV1.png" group-title="央视",CCTV1
 http://blog.belidong.top:4023/udp/239.81.0.102:4056
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/zgrdou1875-crypto/cn_ip/main/iptv/CCTV2.png" group-title="央视",CCTV2
