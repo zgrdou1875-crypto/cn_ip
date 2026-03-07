@@ -223,11 +223,37 @@ http://cdn6.163189.xyz/163189/fhhk
 http://61.221.215.25:8800/hls/47/index.m3u8
 #EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="https://raw.githubusercontent.com/zgrdou1875-crypto/cn_ip/main/iptv/fenghuangxianggang.png" group-title="海外",凤凰香港
 http://r.jdshipin.com/yDoTN
-#EXTINF:-1 tvg-id="1759" tvg-name="珠江频道" tvg-logo="https://raw.githubusercontent.com/zgrdou1875-crypto/cn_ip/main/iptv/zhujiang.png" group-title="地方",广东珠江
+#EXTINF:-1 tvg-id="144" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/zgrdou1875-crypto/cn_ip/main/iptv/翡翠台.png" group-title="海外",翡翠台
+http://cdn6.163189.xyz/163189/fct4k
+#EXTINF:-1 tvg-id="" tvg-name="翡翠台4K" tvg-logo="https://raw.githubusercontent.com/zgrdou1875-crypto/cn_ip/main/iptv/翡翠台.png" group-title="海外",翡翠台4K
+http://r.jdshipin.com/n90gt
+#EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/zgrdou1875-crypto/cn_ip/main/iptv/翡翠台.png" group-title="海外",翡翠台
+http://r.jdshipin.com/GeWKr
+#EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/zgrdou1875-crypto/cn_ip/main/iptv/翡翠台.png" group-title="海外",翡翠台
+http://r.jdshipin.com/qClQf
+#EXTINF:-1 tvg-id="" tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/zgrdou1875-crypto/cn_ip/main/iptv/明珠台.png" group-title="海外",明珠台
+https://t.freetv.fun/live/ming-zhu.php
+#EXTINF:-1 tvg-id="" tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/zgrdou1875-crypto/cn_ip/main/iptv/明珠台.png" group-title="海外",明珠台
+http://r.jdshipin.com/ZQ4kN
+#EXTINF:-1 tvg-id="" tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/zgrdou1875-crypto/cn_ip/main/iptv/明珠台.png" group-title="海外",明珠台
+http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
+#EXTINF:-1 tvg-id="" tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/zgrdou1875-crypto/cn_ip/main/iptv/明珠台.png" group-title="海外",明珠台
+https://t.freetv.fun/live/ming-zhu-5.php
+#EXTINF:-1 tvg-id="" tvg-name="Viutv" tvg-logo="https://raw.githubusercontent.com/zgrdou1875-crypto/cn_ip/main/iptv/Viutv.png" group-title="海外",Viutv
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="珠江频道" tvg-logo="https://raw.githubusercontent.com/zgrdou1875-crypto/cn_ip/main/iptv/广东珠江.png" group-title="地方",广东珠江
+https://stream1.freetv.fun/yan-dong-zhu-jiang-8.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="珠江频道" tvg-logo="https://raw.githubusercontent.com/zgrdou1875-crypto/cn_ip/main/iptv/广东珠江.png" group-title="地方",广东珠江
+https://stream1.freetv.fun/yan-dong-zhu-jiang-8.ctv
+#EXTINF:-1 tvg-id="" tvg-name="珠江频道" tvg-logo="https://raw.githubusercontent.com/zgrdou1875-crypto/cn_ip/main/iptv/广东珠江.png" group-title="地方",广东珠江
+https://stream1.freetv.fun/yan-dong-zhu-jiang-6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="珠江频道" tvg-logo="https://raw.githubusercontent.com/zgrdou1875-crypto/cn_ip/main/iptv/广东珠江.png" group-title="地方",广东珠江
+https://stream1.freetv.fun/yan-dong-zhu-jiang-5.ctv
+#EXTINF:-1 tvg-id="" tvg-name="珠江频道" tvg-logo="https://raw.githubusercontent.com/zgrdou1875-crypto/cn_ip/main/iptv/广东珠江.png" group-title="地方",广东珠江
 http://r.jdshipin.com/sE5vO
-#EXTINF:-1 tvg-id="" tvg-name="广州综合" tvg-logo="" group-title="未分类",广州综合
+#EXTINF:-1 tvg-id="" tvg-name="广州综合" tvg-logo="https://raw.githubusercontent.com/zgrdou1875-crypto/cn_ip/main/iptv/广州综合.png" group-title="未分类",广州综合
 http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
-#EXTINF:-1 tvg-id="" tvg-name="广州综合" tvg-logo="" group-title="未分类",广州综合
+#EXTINF:-1 tvg-id="" tvg-name="广州综合" tvg-logo="https://raw.githubusercontent.com/zgrdou1875-crypto/cn_ip/main/iptv/广州综合.png" group-title="未分类",广州综合
 http://r.jdshipin.com/iR6Gq
-#EXTINF:-1 tvg-id="" tvg-name="广州综合" tvg-logo="" group-title="未分类",广州综合
+#EXTINF:-1 tvg-id="" tvg-name="广州综合" tvg-logo="https://raw.githubusercontent.com/zgrdou1875-crypto/cn_ip/main/iptv/广州综合.png" group-title="未分类",广州综合
 http://r.jdshipin.com/snhya
