@@ -66,15 +66,31 @@ http://blog.belidong.top:4023/udp/239.81.0.141:4056
 #EXTINF:-1 tvg-id="" tvg-name="南宁文旅生活" tvg-logo="" group-title="未分类",南宁都市
 http://blog.belidong.top:4023/udp/239.81.0.139:4056
 #EXTINF:-1 tvg-id="" tvg-name="柳州新闻" tvg-logo="" group-title="未分类",柳州新闻
-http://blog.belidong.top:4023/udp/239.81.0.134:4056
-#EXTINF:-1 tvg-id="" tvg-name="北海新闻" tvg-logo="" group-title="未分类",北海新闻
-http://blog.belidong.top:4023/udp/239.81.0.136:4056
+http://blog.belidong.top:4023/udp/239.81.0.175:4056
 #EXTINF:-1 tvg-id="" tvg-name="玉林新闻" tvg-logo="" group-title="未分类",玉林新闻
-http://blog.belidong.top:4023/udp/239.81.0.138:4056
-#EXTINF:-1 tvg-id="" tvg-name="贺州新闻" tvg-logo="" group-title="未分类",贺州新闻
-http://blog.belidong.top:4023/udp/239.81.0.137:4056
+http://blog.belidong.top:4023/udp/239.81.0.177:4056
 #EXTINF:-1 tvg-id="" tvg-name="桂林新闻" tvg-logo="" group-title="未分类",桂林新闻
-http://blog.belidong.top:4023/udp/239.81.0.135:4056
+http://blog.belidong.top:4023/udp/239.81.0.174:4056
+#EXTINF:-1 tvg-id="" tvg-name="百色综合" tvg-logo="" group-title="未分类",百色综合
+http://blog.belidong.top:4023/udp/239.81.0.150:4056
+#EXTINF:-1 tvg-id="" tvg-name="防城港新闻综合" tvg-logo="" group-title="未分类",防城港新闻综合
+http://blog.belidong.top:4023/udp/239.81.0.151:4056
+#EXTINF:-1 tvg-id="" tvg-name="北海新闻" tvg-logo="" group-title="未分类",北海新闻
+http://blog.belidong.top:4023/udp/239.81.0.154:4056
+#EXTINF:-1 tvg-id="" tvg-name="贺州新闻" tvg-logo="" group-title="未分类",贺州新闻
+http://blog.belidong.top:4023/udp/239.81.0.163:4056
+#EXTINF:-1 tvg-id="" tvg-name="崇左综合" tvg-logo="" group-title="未分类",崇左综合
+http://blog.belidong.top:4023/udp/239.81.0.171:4056
+#EXTINF:-1 tvg-id="" tvg-name="钦州综合" tvg-logo="" group-title="未分类",钦州综合
+http://blog.belidong.top:4023/udp/239.81.0.164:4056
+#EXTINF:-1 tvg-id="" tvg-name="河池新闻综合" tvg-logo="" group-title="未分类",河池新闻综合
+http://blog.belidong.top:4023/udp/239.81.0.168:4056
+#EXTINF:-1 tvg-id="" tvg-name="贵港新闻综合" tvg-logo="" group-title="未分类",贵港新闻综合
+http://blog.belidong.top:4023/udp/239.81.0.172:4056
+#EXTINF:-1 tvg-id="" tvg-name="来宾综合" tvg-logo="" group-title="未分类",来宾综合
+http://blog.belidong.top:4023/udp/239.81.0.173:4056
+#EXTINF:-1 tvg-id="" tvg-name="梧州新闻综合" tvg-logo="" group-title="未分类",梧州新闻综合
+http://blog.belidong.top:4023/udp/239.81.0.176:4056
 #EXTINF:-1 tvg-id="1644" tvg-name="CHC家庭电影" tvg-logo="https://raw.githubusercontent.com/zgrdou1875-crypto/cn_ip/main/iptv/CHC2.png" group-title="数字付费",CHC家庭影院高清
 http://blog.belidong.top:4023/udp/239.81.0.238:4056
 #EXTINF:-1 tvg-id="1643" tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/zgrdou1875-crypto/cn_ip/main/iptv/CHC1.png" group-title="数字付费",CHC动作电影高清
@@ -193,10 +209,14 @@ http://blog.belidong.top:4023/udp/239.81.0.62:4056
 http://blog.belidong.top:4023/udp/239.81.0.148:4056
 #EXTINF:-1 tvg-id="609" tvg-name="新动漫" tvg-logo="https://raw.githubusercontent.com/zgrdou1875-crypto/cn_ip/main/iptv/xindongman.png" group-title="数字付费",新动漫
 http://blog.belidong.top:4023/udp/239.81.0.235:4056
-#EXTINF:-1 tvg-id="" tvg-name="求索" tvg-logo="" group-title="未分类",求索
-http://blog.belidong.top:4023/udp/239.81.0.202:4056
+#EXTINF:-1 tvg-id="" tvg-name="影视" tvg-logo="" group-title="未分类",影视
+http://blog.belidong.top:4023/udp/239.81.0.166:4056
+#EXTINF:-1 tvg-id="" tvg-name="精彩影视" tvg-logo="" group-title="未分类",精彩影视
+http://blog.belidong.top:4023/udp/239.81.0.152:4056
+#EXTINF:-1 tvg-id="" tvg-name="求索记录" tvg-logo="" group-title="未分类",求索记录
+http://blog.belidong.top:4023/udp/239.81.0.153:4056
 #EXTINF:-1 tvg-id="" tvg-name="电竞游戏" tvg-logo="" group-title="未分类",电竞游戏
-http://blog.belidong.top:4023/udp/239.81.0.201:4056
+http://blog.belidong.top:4023/udp/239.81.0.202:4056
 #EXTINF:-1 tvg-id="" tvg-name="中国天气" tvg-logo="" group-title="未分类",中国天气
 http://blog.belidong.top:4023/udp/239.81.0.63:4056
 #EXTINF:-1 tvg-id="" tvg-name="聚鲨环球精选" tvg-logo="" group-title="未分类",聚鲨环球精选
