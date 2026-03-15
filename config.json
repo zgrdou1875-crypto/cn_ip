@@ -5,11 +5,11 @@
     {
       "name": "我的N1内网直播",
       "type": 0,
-      "url": "https://fastly.jsdelivr.net/gh/zgrdou1875-crypto/cn_ip@refs/heads/main/iptv-test.m3u",
+      "url": "https://fastly.jsdelivr.net/gh/zgrdou1875-crypto/cn_ip@refs/heads/main/newiptv.m3u",
       "playerType": 1,
       "ua": "okhttp/3.15",
-      "epg": "http://epg.51zmt.top:8000/api/diyp/",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "epg": "https://fastly.jsdelivr.net/gh/kuke31/xmlgz@main/e.xml.gz",
+      "logo": "https://fastly.jsdelivr.net/gh/zgrdou1875-crypto/cn_ip@refs/heads/main/iptv/{name}.png"
     }
   ],
   "sites": [
