@@ -65,6 +65,7 @@ sniffer:
     - '*.local'
 proxies:
   - {name: 日本, server: 207.56.228.40, port: 443, type: vless, uuid: f2f61636-be12-4996-a930-706d920ea5ff, tls: true, flow: xtls-rprx-vision, skip-cert-verify: false, servername: www.oracle.com, client-fingerprint: chrome, reality-opts: {public-key: ZiXDlp_jhecYh36jqiz7JjAAi7mP-rrR6Bro2LuhOlQ, short-id: 8b6c504e}, tfo: false}
+proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
