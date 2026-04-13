@@ -64,12 +64,12 @@ sniffer:
     - 'router.asus.com'
     - '*.local'
 proxies:
-  - {name: 华翌-CDN专线, server: huayi2026.top, port: 443, type: vless, uuid: 436775e0-d172-4893-ac83-6c3d75d4cb65, tls: true, skip-cert-verify: false, servername: huayi2026.top, client-fingerprint: chrome, network: ws, ws-opts: {path: /ray, headers: {Host: huayi2026.top}}, tfo: false}
+  - {name: 内务府2026-lp0ur4sg, server: 38.12.6.108, port: 443, type: vmess, uuid: 7126553d-cd22-4155-8cf0-11105a049a03, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: www.neiwufu.top, network: ws, ws-opts: {path: /benwang, headers: {Host: www.neiwufu.top}}, tfo: false}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
-      - 华翌-CDN专线
+      - 内务府2026-lp0ur4sg
 rules:
   - AND,((NETWORK,UDP),(DST-PORT,443)),REJECT
   - AND,((NETWORK,UDP),(DST-PORT,853)),REJECT
