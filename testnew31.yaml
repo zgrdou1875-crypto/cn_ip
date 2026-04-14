@@ -64,12 +64,12 @@ sniffer:
     - 'router.asus.com'
     - '*.local'
 proxies:
-  - {name: 内务府2026-lp0ur4sg, server: 38.12.6.108, port: 443, type: vmess, uuid: 7126553d-cd22-4155-8cf0-11105a049a03, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: www.neiwufu.top, network: ws, ws-opts: {path: /benwang, headers: {Host: www.neiwufu.top}}, tfo: false}
+   - {name: 123-qaxprdes, server: dfdad.biz, port: 45344, type: vless, uuid: 92b2743e-c8e4-49e6-9001-7504f55c2b63, tls: true, flow: xtls-rprx-vision, skip-cert-verify: false, servername: www.apple.com, client-fingerprint: chrome, reality-opts: {public-key: deOPIYfiFABFMqdnPJrxK4tvDMJDENf_ZHhwErK2A2I, short-id: 4a6d39}, tfo: false}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
-      - 内务府2026-lp0ur4sg
+      - 123-qaxprdes
 rules:
   - AND,((NETWORK,UDP),(DST-PORT,443)),REJECT
   - AND,((NETWORK,UDP),(DST-PORT,853)),REJECT
