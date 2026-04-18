@@ -64,7 +64,7 @@ sniffer:
     - 'router.asus.com'
     - '*.local'
 proxies:
-    - {name: 备用节点, server: 70.39.195.162, port: 2053, type: trojan, password: 2atVSc1Amr, sni: www.nvidia.com, skip-cert-verify: false, tfo: false}
+    - {name: 备用节点, server: 70.39.195.162, port: 8443, type: vless, uuid: b0d397c2-c726-4579-8a32-73cdf29f103d, tls: true, flow: xtls-rprx-vision, skip-cert-verify: false, servername: www.icloud.com, client-fingerprint: chrome, reality-opts: {public-key: ex9tVH--o_QOoMeX8W-iaNxHigH87apam0wpML4zK00, short-id: a5fb6a14ccb93735}, tfo: false}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
