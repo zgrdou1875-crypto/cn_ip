@@ -64,12 +64,12 @@ sniffer:
     - 'router.asus.com'
     - '*.local'
 proxies:
-    - {name: hk-客户, server: hk.belidong.top, port: 2083, type: vless, uuid: c63bbc54-78a4-4c1c-999f-23b1820fea81, tls: true, skip-cert-verify: false, servername: hk.belidong.top, client-fingerprint: chrome, network: ws, ws-opts: {path: /ray, headers: {Host: hk.belidong.top}}, tfo: false}
+    - {name: US, server: 154.86.30.165, port: 2053, type: vless, uuid: 91b4c3d4-3f57-4c49-8c21-723118ac11f8, tls: true, flow: xtls-rprx-vision, skip-cert-verify: false, servername: aws.amazon.com, client-fingerprint: chrome, reality-opts: {public-key: RJjW3JovrVJHFqF1iWLIFV9V4BcWDPSlCeGwKtTfyFk, short-id: 47c29438da4db8}, tfo: false}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
-      - hk-客户
+      - US
 rules:
   - AND,((NETWORK,UDP),(DST-PORT,443)),REJECT
   - AND,((NETWORK,UDP),(DST-PORT,853)),REJECT
