@@ -64,12 +64,12 @@ sniffer:
     - 'router.asus.com'
     - '*.local'
 proxies:
-    - {name: US, server: 154.86.30.165, port: 2053, type: vless, uuid: 91b4c3d4-3f57-4c49-8c21-723118ac11f8, tls: true, flow: xtls-rprx-vision, skip-cert-verify: false, servername: aws.amazon.com, client-fingerprint: chrome, reality-opts: {public-key: RJjW3JovrVJHFqF1iWLIFV9V4BcWDPSlCeGwKtTfyFk, short-id: 47c29438da4db8}, tfo: false}
+    - {name: 香港, server: 154.86.30.165, port: 2083, type: vless, uuid: 38f7467e-fa4b-495f-84e6-1dd1ee863e26, tls: true, flow: xtls-rprx-vision, skip-cert-verify: false, servername: aws.amazon.com, client-fingerprint: chrome, reality-opts: {public-key: RJjW3JovrVJHFqF1iWLIFV9V4BcWDPSlCeGwKtTfyFk, short-id: 47c29438da4db8}, tfo: false}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
-      - US
+      - 香港
 rules:
   - AND,((NETWORK,UDP),(DST-PORT,443)),REJECT
   - AND,((NETWORK,UDP),(DST-PORT,853)),REJECT
