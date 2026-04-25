@@ -64,7 +64,7 @@ sniffer:
     - 'router.asus.com'
     - '*.local'
 proxies:
-    - {name: CDN加速-u5o7c5k6, server: cdn.goodheylam.xyz, port: 2053, type: vless, uuid: 468c3075-9bc1-466b-9835-f4914166d64f, tls: true, skip-cert-verify: false, servername: xui.goodheylam.xyz, client-fingerprint: chrome, network: ws, ws-opts: {path: /ray, headers: {Host: xui.goodheylam.xyz}}, tfo: false}
+    - {name: CDN加速-u5o7c5k6, server: cdn1.goodheylam.xyz, port: 2053, type: vless, uuid: 468c3075-9bc1-466b-9835-f4914166d64f, tls: true, skip-cert-verify: false, servername: xui.goodheylam.xyz, client-fingerprint: chrome, network: ws, ws-opts: {path: /ray, headers: {Host: xui.goodheylam.xyz}}, tfo: false}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
