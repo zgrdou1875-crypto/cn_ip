@@ -64,12 +64,12 @@ sniffer:
     - 'router.asus.com'
     - '*.local'
 proxies:
-    - {name: 洛杉矶2, server: 45.32.64.238, port: 2053, type: vless, uuid: 43f6999b-bf7e-4096-af7a-e586fac52832, tls: true, flow: xtls-rprx-vision, skip-cert-verify: false, servername: www.tesla.com, client-fingerprint: chrome, reality-opts: {public-key: CsNNPmsaN7tDxwfmIAIMGKqhP8aZN2Hf62k_2KdE-m0, short-id: 5c}, tfo: false}
+    - {name: 洛杉矶3, server: 45.32.95.119, port: 2053, type: vless, uuid: 294464d3-c6d7-48a1-abe3-7211a0442ebb, tls: true, flow: xtls-rprx-vision, skip-cert-verify: false, servername: www.amd.com, client-fingerprint: chrome, reality-opts: {public-key: dVQioIEwaBqJLnVzAL12fw3EOzHjsltQJZ30nF8pPA0, short-id: 91a13e03fb193426}, tfo: false}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
-      - 洛杉矶2
+      - 洛杉矶3
 rules:
   - AND,((NETWORK,UDP),(DST-PORT,443)),REJECT
   - AND,((NETWORK,UDP),(DST-PORT,853)),REJECT
