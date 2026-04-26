@@ -64,12 +64,12 @@ sniffer:
     - 'router.asus.com'
     - '*.local'
 proxies:
-    - {name: test-rb6kemtg, server: test.belidong.top, port: 2083, type: vless, uuid: df1ad953-9693-425c-b004-70899d9656e5, tls: true, skip-cert-verify: false, servername: test.belidong.top, client-fingerprint: chrome, network: ws, ws-opts: {path: /ray, headers: {Host: test.belidong.top}}, tfo: false}
+    - {name: US洛杉矶, server: 144.202.125.68, port: 2053, type: vless, uuid: 931216f8-6ef7-4d59-9605-eacae0987332, tls: true, flow: xtls-rprx-vision, skip-cert-verify: false, servername: www.tesla.com, client-fingerprint: chrome, reality-opts: {public-key: An0o4o_UhBb0is4MJRoVcB8GGjvKU8xPNwYBJj3RdUc, short-id: 8b3c71e274b6a41d}, tfo: false}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
-      - test-rb6kemtg
+      - US洛杉矶
 rules:
   - AND,((NETWORK,UDP),(DST-PORT,443)),REJECT
   - AND,((NETWORK,UDP),(DST-PORT,853)),REJECT
